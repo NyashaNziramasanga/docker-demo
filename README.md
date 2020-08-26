@@ -24,6 +24,14 @@ docker volume create shared-stuff
 
 # Get image from a container registry
 docker push
+
+#Docker Compose
+# Finds file and runs all the containers
+docker-compose up
+
+# Finds file and stops all the containers
+docker-compose down
+
 ```
 
 ## Resources
