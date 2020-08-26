@@ -16,6 +16,9 @@ docker ps
 # Build a docker image (username/name of image) + path
 docker build -t {name}/demoapp:1.0 .
 
+# Port forwarding from Local: Container
+docker run -p 5000:8080 {3160ac25cd26}
+
 # Get image from a container registry
 docker push
 ```
