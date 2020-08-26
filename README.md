@@ -19,6 +19,9 @@ docker build -t {name}/demoapp:1.0 .
 # Port forwarding from Local: Container
 docker run -p 5000:8080 {3160ac25cd26}
 
+# Creating a shared file
+docker volume create shared-stuff
+
 # Get image from a container registry
 docker push
 ```
