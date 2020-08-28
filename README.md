@@ -40,7 +40,7 @@ docker-compose down
 
 ## Resources
 
-[Docker Docs](https://docs.docker.com/docker-hub/)
-[hub.docker.com/](https://hub.docker.com/)
-[Learn Docker in 7 Easy Steps by Fireship (Video)](https://www.youtube.com/watch?v=gAkwW2tuIqE)
-[Exploring Docker [1] - Getting Started by Traversy Media(Video)](https://www.youtube.com/watch?v=Kyx2PsuwomE)
+- [Docker Docs](https://docs.docker.com/docker-hub/)
+- [hub.docker.com/](https://hub.docker.com/)
+- [Learn Docker in 7 Easy Steps by Fireship (Video)](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [Exploring Docker [1] - Getting Started by Traversy Media(Video)](https://www.youtube.com/watch?v=Kyx2PsuwomE)
