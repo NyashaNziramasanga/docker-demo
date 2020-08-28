@@ -2,6 +2,10 @@
 
 Simple example using docker
 
+## Docker Structure
+
+![docker-structure](images/docker-structure.png)
+
 ## Pre-requisite
 
 - [docker desktop](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
