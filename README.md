@@ -1,6 +1,6 @@
-# Docker Demo
+# 🐳 Docker Example 🐳
 
-Simple example using docker
+Simple example using on using Docker
 
 ## Docker Structure
 
