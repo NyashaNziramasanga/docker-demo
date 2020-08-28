@@ -2,8 +2,6 @@
 
 Simple example using on using Docker
 
-## Docker Structure
-
 ![docker-structure](images/docker-structure.png)
 
 ## Pre-requisite
